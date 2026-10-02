@@ -1,0 +1,10 @@
+Student ID: 62001 | Name: Ashwin  | Email: ashwin@gmail.com  | Marks: 89.0 | Attendance: 81 | Status: INACTIVE
+Student ID: 62002 | Name: Kartik   | Email: kartik@gmail.com   | Marks: 78.0 | Attendance: 81 | Status: ACTIVE
+Student ID: 62003 | Name: Lokesh  | Email: lokesh@gmail.com  | Marks: 56.0 | Attendance: 65 | Status: ACTIVE
+Student ID: 62004 | Name: Jagan | Email: jagan@gmail.com | Marks: 78.0 | Attendance: 65 | Status: COMPLETED
+Student ID: 62005 | Name: Saran | Email: saran@gmail.com | Marks: 89.0 | Attendance: 70 | Status: INACTIVE
+Student ID: 62006 | Name: Malar | Email: malar@gmail.com | Marks: 89.0 | Attendance: 81 | Status: ACTIVE
+Student ID: 62007 | Name: lavanya | Email: lavanya@gmail.com | Marks: 89.0 | Attendance: 91 | Status: ACTIVE
+Student ID: 62008 | Name: sheela | Email: sheela@gmail.com | Marks: 76.0 | Attendance: 71 | Status: INACTIVE
+Student ID: 62009 | Name: suba | Email: suba@gmail.com | Marks: 76.0 | Attendance: 67 | Status: ACTIVE
+Student ID: 62010 | Name: deepak | Email: deepak@gmail.com | Marks: 66.0 | Attendance: 81 | Status: COMPLETED
