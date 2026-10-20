@@ -113,3 +113,55 @@ This folder contains SQL assignments and mini-projects developed to practice dat
 - Date Functions
 - Real-World Database Scenarios
 
+## JDBC Projects
+
+This folder contains Java console-based projects developed using Core Java, JDBC, and MySQL. These projects help practice database connectivity, CRUD operations, SQL queries, and transaction management.
+
+### 1. Banking Management System
+
+A console-based application developed to manage bank customers, accounts, deposits, withdrawals, fund transfers, and transaction history.
+
+**Features**
+- Create and manage customer details
+- Create and manage bank accounts
+- View all customers and search by customer ID
+- Update customer information
+- Delete or deactivate customers
+- Deposit money
+- Withdraw money
+- Transfer money between accounts
+- View transaction history
+- Store and retrieve data using MySQL and JDBC
+
+### 2. Online Food Ordering System
+
+A console-based application developed to manage customers, food menu items, orders, order details, and bill generation.
+
+**Features**
+- Add and manage customer details
+- Add and manage food menu items
+- View available food items
+- Search and manage menu records
+- Place food orders
+- Select food items and quantities
+- Store order details in MySQL
+- Generate bills and calculate total amounts
+- Manage customer orders using JDBC
+
+### Technologies Used
+- Java
+- JDBC (Java Database Connectivity)
+- MySQL
+
+### JDBC Concepts Practiced
+- Database connectivity using `DriverManager` and `Connection`
+- `Statement` and `PreparedStatement`
+- `ResultSet` for retrieving records
+- CRUD operations
+- Primary keys and foreign keys
+- Auto-increment IDs
+- Exception handling
+- Transactions using `commit()` and `rollback()`
+- Retrieving generated keys
+- Relational database operations
+
