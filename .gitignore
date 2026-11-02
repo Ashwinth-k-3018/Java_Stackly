@@ -1,0 +1,25 @@
+/.metadata/
+
+/.metadata/
+
+# Java compiled files
+*.class
+
+# Build folders
+target/
+bin/
+build/
+
+# Eclipse / STS
+.settings/
+.project
+.classpath
+
+# VS Code
+.vscode/
+
+# IntelliJ
+.idea/
+
+# Log files
+*.log
