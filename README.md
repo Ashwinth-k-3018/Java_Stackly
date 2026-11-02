@@ -165,3 +165,71 @@ A console-based application developed to manage customers, food menu items, orde
 - Retrieving generated keys
 - Relational database operations
 
+## Spring Boot Projects
+
+This folder contains Spring Boot applications developed to practice REST API development, layered architecture, dependency injection, exception handling, and Aspect-Oriented Programming (AOP).
+
+### 1. Library Book Management System
+
+A Spring Boot application developed to manage library books and book borrowing operations.
+
+**Features**
+- Add and manage book details
+- View all available books
+- Search books by ID
+- Update book information
+- Delete book records
+- Manage book borrowing operations
+- Handle book availability
+- Handle custom exceptions
+- Log application activities using AOP
+
+### 2. Student Registration System
+
+A Spring Boot application developed to manage student registration and student information.
+
+**Features**
+- Register new students
+- View student details
+- Search students by ID
+- Update student information
+- Delete student records
+- Handle duplicate registration
+- Handle student-related exceptions
+- Log application activities using AOP
+
+### 3. Mobile Recharge System
+
+A Spring Boot application developed to manage mobile recharge operations and recharge details.
+
+**Features**
+- Create mobile recharge records
+- View recharge details
+- Search recharge records
+- Manage recharge status
+- Handle duplicate recharge requests
+- Handle recharge-related exceptions
+- Use enums for recharge status
+- Log application activities using AOP
+
+### Technologies Used
+- Java
+- Spring Boot
+- Spring Core
+- Spring MVC
+- Maven
+- REST APIs
+
+### Spring Boot Concepts Practiced
+- Inversion of Control (IoC)
+- Dependency Injection (DI)
+- Spring Beans and ApplicationContext
+- Layered Architecture (Controller, Service, Model)
+- REST API Development
+- Request Mapping and HTTP Methods
+- Exception Handling
+- Custom Exceptions
+- Global Exception Handling
+- Aspect-Oriented Programming (AOP)
+- Logging using Aspects
+- Maven Project Management
